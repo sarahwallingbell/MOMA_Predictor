@@ -4,7 +4,7 @@ Three methods for handling imbalanced data for classification with decision tree
 A collaboration with two classmates to train a decision tree that classifies the gender of an artist based on the title of their artwork<sup>*</sup>. We used a publically available Museum of Modern Art (MOMA) dataset containing titles and other metadata about their art collection. 
 
 Example of an entry in the MOMA art dataset:
-![example](\images\raw_data_example.svg)
+![](/images/raw_data_example.svg)
 
 
 
