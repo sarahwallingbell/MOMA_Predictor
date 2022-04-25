@@ -1,7 +1,9 @@
 # MOMA_Predictor
 Three methods for handling imbalanced data for classification with decision trees. 
 
-A collaboration with two classmates train decision tree that classifies the gender of an artist based on the title of their artwork<sup>*</sup>. We used a publically available Museum of Modern Art (MOMA) dataset containing titles and other metadata about their art collection. 
+A collaboration with two classmates to train a decision tree that classifies the gender of an artist based on the title of their artwork<sup>*</sup>. We used a publically available Museum of Modern Art (MOMA) dataset containing titles and other metadata about their art collection. 
+
+Example of an entry in the MOMA art dataset:
 
 
 
